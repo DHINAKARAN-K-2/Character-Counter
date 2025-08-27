@@ -31,6 +31,13 @@ A simple and responsive web-based text area with a real-time character counter u
 - Social media post boxes
 - Feedback text fields
 
-## Live Demo
+## 🚀 Live Demo
+
+🔗 [View Live Site](https://dhinakaran-k-2.github.io/Character-Counter/)
+
+## 🚀 Repository Link
+
+🔗 [View Live Site](https://github.com/DHINAKARAN-K-2/Character-Counter.git)
+
 
 
